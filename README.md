@@ -26,8 +26,6 @@ Costruiamo prodotti digitali moderni, scalabili e completamente personalizzati, 
 
 ## 💡 Cosa facciamo
 
-Sviluppiamo soluzioni digitali complete:
-
 ### 🌐 Siti Web
 - Siti web su misura (no template)
 - UX/UI moderna e performante
@@ -48,13 +46,11 @@ Sviluppiamo soluzioni digitali complete:
 
 ## 🧠 Il nostro approccio
 
-Il nostro modo di lavorare è diverso dalle agenzie classiche:
-
-- 💸 **Prezzi accessibili** → niente costi gonfiati o inutili
-- ⚡ **Tecnologie moderne** → stack aggiornato e scalabile
-- 🤝 **Zero intermediari** → parli direttamente con chi sviluppa
-- 🔧 **Supporto continuo** → assistenza anche dopo il rilascio
-- 🧩 **Soluzioni su misura** → ogni progetto è unico
+- 💸 Prezzi accessibili → niente costi gonfiati
+- ⚡ Tecnologie moderne → stack aggiornato e scalabile
+- 🤝 Zero intermediari → parli direttamente con chi sviluppa
+- 🔧 Supporto continuo → assistenza anche dopo il rilascio
+- 🧩 Soluzioni su misura → ogni progetto è unico
 
 ---
 
@@ -69,24 +65,24 @@ Il nostro modo di lavorare è diverso dalle agenzie classiche:
 
 ---
 
-## 🎯 La nostra filosofia
+## 🎯 Filosofia
 
 Crediamo che la tecnologia debba essere:
 
 - accessibile
 - veloce
 - scalabile
-- realmente utile
+- utile davvero
 
-Ogni riga di codice è scritta con l’obiettivo di creare valore reale per il cliente.
+Ogni progetto è costruito per creare valore reale, non solo “codice funzionante”.
 
 ---
 
-## 📍 Info & contatti
+## 📍 Contatti
 
 - 📧 Email: info@webdevinnovations.ch  
-- 📍 Base: Svizzera (Ticino)  
-- 💬 Contatto diretto: tramite form sul sito  
+- 📍 Svizzera (Ticino)  
+- 💬 Contatto diretto tramite sito web  
 
 ---
 
@@ -105,8 +101,6 @@ We build modern, scalable and fully custom digital products while removing unnec
 ---
 
 ## 💡 What we do
-
-We deliver complete digital solutions:
 
 ### 🌐 Websites
 - Fully custom-built websites (no templates)
@@ -128,13 +122,11 @@ We deliver complete digital solutions:
 
 ## 🧠 Our approach
 
-We work differently compared to traditional agencies:
-
-- 💸 **Affordable pricing** → no unnecessary overhead
-- ⚡ **Modern technologies** → scalable and up-to-date stack
-- 🤝 **No intermediaries** → direct communication with developers
-- 🔧 **Continuous support** → help even after launch
-- 🧩 **Tailored solutions** → every project is unique
+- 💸 Affordable pricing → no unnecessary overhead
+- ⚡ Modern technologies → scalable and up-to-date stack
+- 🤝 No intermediaries → direct communication with developers
+- 🔧 Continuous support → help even after launch
+- 🧩 Tailored solutions → every project is unique
 
 ---
 
@@ -149,7 +141,7 @@ We work differently compared to traditional agencies:
 
 ---
 
-## 🎯 Our philosophy
+## 🎯 Philosophy
 
 We believe technology should be:
 
