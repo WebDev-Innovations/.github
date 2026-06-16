@@ -1,167 +1,108 @@
+<div align="center">
+
 # 🌐 WebDev Innovations
 
-> Custom web development & digital solutions made in Switzerland  
-> Performance. Design. Simplicity.
+![Location](https://img.shields.io/badge/Made%20in-Switzerland-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
+*Custom web development & digital solutions — Performance. Design. Simplicity.*
+
+🔗 **[Visita il nostro sito / Visit our website](https://www.webdevinnovations.ch)**
+
+[🇮🇹 Italiano](#italiano) · [🇬🇧 English](#english)
+
+</div>
 
 ---
 
-## 🌍 Language / Lingua
+<a name="italiano"></a>
+## 🇮🇹 Italiano
 
-- 🇮🇹 [Italiano](#italiano)
-- 🇬🇧 [English](#english)
-
----
-
-# 🇮🇹 Italiano
-
-## 🚀 Chi siamo
-
-WebDev Innovations è un team di sviluppo web con base in Svizzera, nato con una missione semplice:
-
-> rendere lo sviluppo digitale su misura accessibile, veloce e di alta qualità.
-
-Costruiamo prodotti digitali moderni, scalabili e completamente personalizzati, eliminando la complessità e i costi inutili tipici delle agenzie tradizionali.
+<div align="center">
+*Sviluppo digitale su misura con precisione svizzera.*<br>
+*Prodotti moderni, scalabili e accessibili, senza la complexesità delle agenzie tradizionali.*
+</div>
 
 ---
 
-## 💡 Cosa facciamo
+### 🚀 Chi Siamo
 
-### 🌐 Siti Web
-- Siti web su misura (no template)
-- UX/UI moderna e performante
-- Ottimizzazione SEO e velocità
-- Design responsive e mobile-first
+**WebDev Innovations** è un team di sviluppo web con base in Svizzera, nato con una missione semplice: rendere lo sviluppo digitale su misura accessibile, veloce e di alta qualità. Costruiamo prodotti digitali moderni, scalabili e completamente personalizzati, eliminando la complessità e i costi inutili tipici delle agenzie tradizionali.
 
-### 📱 Applicazioni
-- App mobile native o cross-platform
-- Web app scalabili
-- Sistemi gestionali personalizzati
+### 💡 Cosa Facciamo
 
-### 🤖 Automazioni & Bot
-- Automazioni di processi aziendali
-- Bot intelligenti per interazioni e workflow
-- Integrazioni API e sistemi esterni
+| Servizio | Dettagli e Caratteristiche |
+|-----------|-------------|
+| 🌐 **Siti Web** | Sviluppo su misura (no template), UX/UI moderna, ottimizzazione SEO e mobile-first |
+| 📱 **Applicazioni** | App mobile native/cross-platform, web app scalabili e sistemi gestionali custom |
+| 🤖 **Automazioni & Bot** | Automazione dei processi aziendali, bot intelligenti per workflow e integrazioni API |
 
----
+### 🧠 Il Nostro Approccio
 
-## 🧠 Il nostro approccio
+| 💸 Prezzi Accessibili | ⚡ Tecnologie Moderne | 🤝 Zero Intermediari | 🔧 Supporto Continuo |
+| :---: | :---: | :---: | :---: |
+| Niente costi gonfiati o overhead tipici delle grandi agenzie | Stack aggiornato, scalabile e ottimizzato per le performance | Parli direttamente con chi sviluppa il tuo codice | Assistenza tecnica e manutenzione garantite anche dopo il rilascio |
 
-- 💸 Prezzi accessibili → niente costi gonfiati
-- ⚡ Tecnologie moderne → stack aggiornato e scalabile
-- 🤝 Zero intermediari → parli direttamente con chi sviluppa
-- 🔧 Supporto continuo → assistenza anche dopo il rilascio
-- 🧩 Soluzioni su misura → ogni progetto è unico
+### 🛠️ Tecnologie Utilizzate
 
----
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** Architetture MVC, PHP, Java
+- **Database:** MySQL / Strutture dati ottimizzate per la scalabilità
+- **Automations:** Bot di automazione processi e workflow intelligenti
 
-## 🛠️ Come lavoriamo
+### 📍 Contatti
 
-1. Analisi dell’idea e dei requisiti  
-2. Progettazione UI/UX  
-3. Sviluppo frontend e backend  
-4. Testing e ottimizzazione  
-5. Deploy in produzione  
-6. Supporto e manutenzione continua  
+- **📧 Email:** info@webdevinnovations.ch
+- **📍 Sede:** Canton Ticino, Svizzera
+- **💬 Canale:** Contatto diretto e preventivi tramite il nostro sito web
 
 ---
 
-## 🎯 Filosofia
+<a name="english"></a>
+## 🇬🇧 English
 
-Crediamo che la tecnologia debba essere:
-
-- accessibile
-- veloce
-- scalabile
-- utile davvero
-
-Ogni progetto è costruito per creare valore reale, non solo “codice funzionante”.
+<div align="center">
+*Custom digital development with Swiss precision.*<br>
+*Modern, scalable, and affordable products, without traditional agency overhead.*
+</div>
 
 ---
 
-## 📍 Contatti
+### 🚀 About Us
 
-- 📧 Email: info@webdevinnovations.ch  
-- 📍 Svizzera (Ticino)  
-- 💬 Contatto diretto tramite sito web  
+**WebDev Innovations** is a Swiss-based web development team built around a simple mission: to make custom digital development accessible, fast, and high quality. We build modern, scalable, and fully customized digital products, removing unnecessary complexity and agency overhead.
 
----
+### 💡 What We Do
 
----
+| Service | Details & Features |
+|-----------|-------------|
+| 🌐 **Websites** | Fully custom-built websites (no templates), modern UI/UX, SEO and mobile-first optimization |
+| 📱 **Applications** | Native/cross-platform mobile apps, scalable web applications, and custom management systems |
+| 🤖 **Automation & Bots** | Business process automation, intelligent workflow bots, and external API integrations |
 
-# 🇬🇧 English
+### 🧠 Our Approach
 
-## 🚀 About us
+| 💸 Affordable Pricing | ⚡ Modern Tech Stack | 🤝 No Intermediaries | 🔧 Continuous Support |
+| :---: | :---: | :---: | :---: |
+| No bloated costs or overhead typical of traditional agencies | Up-to-date, scalable stack optimized for raw performance | Direct communication with the team writing your code | Dedicated technical support and maintenance post-launch |
 
-WebDev Innovations is a Swiss-based web development team built around a simple mission:
+### 🛠️ Technologies Used
 
-> make custom digital development accessible, fast, and high quality.
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** MVC Frameworks, PHP, Java
+- **Database:** MySQL / Scalable optimized data structures
+- **Automations:** Process automation bots and intelligent workflows
 
-We build modern, scalable and fully custom digital products while removing unnecessary complexity and agency overhead.
+### 📍 Contact
 
----
-
-## 💡 What we do
-
-### 🌐 Websites
-- Fully custom-built websites (no templates)
-- Modern UI/UX design
-- SEO and performance optimization
-- Mobile-first responsive design
-
-### 📱 Applications
-- Native & cross-platform mobile apps
-- Scalable web applications
-- Custom management systems
-
-### 🤖 Automation & Bots
-- Business process automation
-- Intelligent bots and workflows
-- API integrations and external systems
+- **📧 Email:** info@webdevinnovations.ch
+- **📍 Location:** Ticino, Switzerland
+- **💬 Channel:** Direct contact and quotes via our website
 
 ---
 
-## 🧠 Our approach
+<div align="center">
 
-- 💸 Affordable pricing → no unnecessary overhead
-- ⚡ Modern technologies → scalable and up-to-date stack
-- 🤝 No intermediaries → direct communication with developers
-- 🔧 Continuous support → help even after launch
-- 🧩 Tailored solutions → every project is unique
+*WebDev Innovations — Building digital products with precision, passion, and Swiss quality.*
 
----
-
-## 🛠️ How we work
-
-1. Idea & requirements analysis  
-2. UI/UX design  
-3. Frontend & backend development  
-4. Testing & optimization  
-5. Deployment  
-6. Ongoing support & maintenance  
-
----
-
-## 🎯 Philosophy
-
-We believe technology should be:
-
-- accessible
-- fast
-- scalable
-- actually useful
-
-Every line of code is written to create real value for real people.
-
----
-
-## 📍 Contact
-
-- 📧 Email: info@webdevinnovations.ch  
-- 📍 Based in Switzerland (Ticino)  
-- 💬 Contact form available on our website  
-
----
-
-## ⭐ WebDev Innovations
-
-Building digital products with precision, passion, and Swiss quality.
+</div>
